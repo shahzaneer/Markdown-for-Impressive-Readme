@@ -48,7 +48,7 @@ consider the id's to be the headings the the snake-case
 
   ![CUI Islamabad](./cui.jpg)
   
-  - wallahi muqabla dono ka koi bhi nhi hai!
+  - alma mater!
 
 
 <!--line insert krne k liay -->
